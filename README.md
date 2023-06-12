@@ -1,2 +1,2 @@
-# Site Institucional Onepage
- Portfólio de site em uma página com imagens, botões, formulários com propósito empresarial.
+# Site Institucional (Onepage)
+ Portfolio de site em uma página com imagens, botões, formulários, com propósito empresarial. O site tem a estrutura básica do HTML com bastante seções de "div" e algumas "section" também. O arquivo CSS está todo organizado conforme a proposta do HTML, com cores e especificações ao meu gosto. O arquivo CSS de fontes, eu utilizei da internet como um padrão. O restante, segui a forma convencional de escrita de código.
